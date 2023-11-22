@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Hello GHCR"
+echo "Hello Tom"
